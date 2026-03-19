@@ -1,6 +1,6 @@
 # profile-update-interval: 2
 # profile-title: SoulVPN`S
-# subscription-userinfo: expire=1
+# subscription-userinfo: expire=1798761600
 # show-user-info: 1
 # total: 0
 # used: 0
